@@ -14,6 +14,11 @@ I’m an Industrial & Systems Engineering student at Lehigh University passionat
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 
 
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm2284&layout=compact&theme=default)
+
+
 ## 🎯 What I’m Focused On
 - Process optimization, value stream mapping, and Lean Six Sigma  
 - Machine learning fundamentals, Python, and data analysis  
