@@ -4,6 +4,16 @@ I’m an Industrial & Systems Engineering student at Lehigh University passionat
 
 ---
 
+
+## 🛠️ Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+
+
 ## 🎯 What I’m Focused On
 - Process optimization, value stream mapping, and Lean Six Sigma  
 - Machine learning fundamentals, Python, and data analysis  
